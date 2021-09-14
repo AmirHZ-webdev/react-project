@@ -1,0 +1,19 @@
+.container{
+    background-color: #b6b3b3;
+
+
+}
+.menu ul{
+    display: flex;
+    margin-left: 20px;
+}
+.menu ul li{
+    list-style-type: none;
+    padding: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 1.5rem;
+}
+.menu li:hover{
+    background-color: #a39f9f;
+}
